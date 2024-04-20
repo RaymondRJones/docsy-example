@@ -38,5 +38,8 @@
     "cross-env": "^7.0.3",
     "hugo-extended": "0.124.1",
     "postcss-cli": "^11.0.0"
+  },
+  "engines": {
+    "node": "21.7.3"
   }
 }
